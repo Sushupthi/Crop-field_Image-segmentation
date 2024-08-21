@@ -15,7 +15,7 @@ This project implements an image segmentation algorithm for crop field images us
 - **results/**: Directory where the segmented output images will be saved.
 - **GMM.py**: Contains the implementation of the Gaussian Mixture Model.
 - **Utils.py**: Contains utility functions such as image loading.
-- **main.py**: The main script to run the segmentation algorithm.
+- **Maincode.ipynb**: The main script to run the segmentation algorithm.
 
 ### Example Results
 
@@ -49,7 +49,3 @@ After GMM segmentation, the image is further processed to identify contiguous re
 ## Conclusion
 
 This project is a powerful tool for segmenting crop fields in aerial images, allowing for the identification of non-crop areas. The combination of GMM and connected components labeling ensures accurate segmentation and easy extraction of relevant areas.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
