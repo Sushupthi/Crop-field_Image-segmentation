@@ -22,7 +22,7 @@ This project implements an image segmentation algorithm for crop field images us
 Below are some example outputs:
 
 - **Original Image**:
-  ![Original Image](images/DJI_20240308125440_0001_D.jpg)
+  ![Original Image](images/DJI_20240308125440_0001_D.JPG)
 
 - **Segmented Output**:
   ![Segmented Component 1](results/component_0_1.png)
