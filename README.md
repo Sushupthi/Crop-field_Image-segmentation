@@ -22,12 +22,12 @@ This project implements an image segmentation algorithm for crop field images us
 Below are some example outputs:
 
 - **Original Image**:
-  ![Original Image](images/DJI_20240308125440_0001_D.JPG)
+  <img src="images/DJI_20240308125440_0001_D.JPG" alt="Original Image" width="300"/>
 
 - **Segmented Output**:
-  ![Segmented Component 1](results/component_0_1.png)
-  ![Segmented Component 2](results/component_0_3.png)
-
+  <img src="results/component_0_1.png" alt="Segmented Component 1" width="300"/>
+  <img src="results/component_0_3.png" alt="Segmented Component 2" width="300"/>
+  
 ## Brief Explanation
 
 ### Gaussian Mixture Model (GMM)
